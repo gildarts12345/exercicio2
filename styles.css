@@ -1,0 +1,22 @@
+body{
+    background-color: #2a7000;
+}
+h1{
+    color: #FFF;
+}
+.tabuada, .form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.form label,
+.form input,
+.form button {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.main {
+  background-color: #4a9000;
+}
